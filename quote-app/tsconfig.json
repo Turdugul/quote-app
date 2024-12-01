@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "declaration": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "allowArbitraryExtensions": true,
+    "allowImportingTsExtensions": true,
+    "typeRoots": ["./node_modules/@types", "./types"]
+  },
+  "include": ["src/**/*", "src/types/vite-plugin-eslint.d.ts"],
+  "exclude": ["node_modules", "dist"]
+}
