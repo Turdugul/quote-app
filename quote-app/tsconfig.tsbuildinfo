@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/firebase.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/addquote.tsx","./src/components/getrandomquote.tsx","./src/components/seedquotes.ts","./src/data/seedquotes.ts","./src/types/vite-plugin-eslint.d.ts"],"version":"5.6.3"}
